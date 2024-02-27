@@ -13,7 +13,7 @@ Sou natural de Duque de Caxias/RJ e formado em Ciências Economicas pela Univers
 *📺 **[Projeto Netflix]** - Este trabalho é focado no desenvolvimento das habilidades de transformação e visualização de dados em Python através da utilização de bibliotecas como Matplotlib e Seaborn, além na análise exploratória do catálogo de filmes e séries na Netflix. **([Link-Projeto-Netflix](https://github.com/gabrielmartinsdesouza/Projeto-Netflix))**
 
 ### Profissional
-* Analista de Dados em Suprimentos - Eneva S.A (junho/2022 - Atual)
+* Analista de Dados em Suprimentos - Eneva S.A (junho/2022 - Dezembro/2023)
 
 ### Formação Acadêmica
 * Bacharelado em Ciências Econômicas - UFRJ (2016-2023)
